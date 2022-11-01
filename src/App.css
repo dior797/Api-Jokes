@@ -1,0 +1,15 @@
+*{
+  overflow: hidden;
+}
+.text{
+  font-family: 'Cinzel', serif;
+  font-size: 50px;
+  padding:30px;
+  background-color: purple;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 95vh;
+}
